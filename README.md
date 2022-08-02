@@ -16,8 +16,8 @@
   * [Questions](#questions)
 
   <h2 id='description'> Description </h2>
-  A program that allows a manager to create a quick data base of his employees
-  <p style='text-align: right;'><a href='#title'>Back to top</a></p>
+
+ <p style='text-align: right;'><a href='#title'>Back to top</a></p>
 
   <h2 id='usage'> Usage </h2>
   This program allows you to know the information of the people you have put on the database. You would use this to be able to contact anyone need be.
