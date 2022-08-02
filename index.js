@@ -124,9 +124,7 @@ console.log(`
               );
               employeeIndex.push(newIntern)
     }
-}
-
-
+  }
 
     async function promptQuestions() {
   await questions()
