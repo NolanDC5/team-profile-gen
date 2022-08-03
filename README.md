@@ -2,6 +2,8 @@
   <h1 id='title'> Team Profile Generator </h1>
   
   ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+  <h2> Demo Video Screencastify </h2>
+  https://drive.google.com/file/d/1gqeGCryJAt1kKP0LKLvwJ9KuZLC-m8W1/view?usp=sharing
   
   <h2 id='contents'> Table of Contents </h2>
   
